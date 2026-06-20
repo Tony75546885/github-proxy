@@ -3,6 +3,9 @@
 A small Spring Boot proxy that exposes a single endpoint listing a GitHub user's
 non-fork repositories together with their branches.
 
+[![CI](https://github.com/Tony75546885/github-proxy/actions/workflows/ci.yml/badge.svg)](https://github.com/Tony75546885/github-proxy/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 ## Tech stack
 
 - Java 25
