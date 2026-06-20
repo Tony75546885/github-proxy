@@ -21,7 +21,7 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter-web")
 
     testImplementation("org.springframework.boot:spring-boot-starter-test")
-    testImplementation("org.springframework.boot:spring-boot-test-web")
+    testImplementation("org.springframework.boot:spring-boot-resttestclient")
     testImplementation("org.wiremock:wiremock-standalone:3.10.0")
 }
 
